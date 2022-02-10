@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 87,
+    "height" : 179
+  }, {
+    "width" : 174,
+    "height" : 358
+  }, {
+    "width" : 348,
+    "height" : 716
+  }, {
+    "width" : 696,
+    "height" : 1431
+  }, {
+    "width" : 1391,
+    "height" : 2861
+  }, {
+    "width" : 2782,
+    "height" : 5722
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2782,
+  "@id" : "https://szmoon.github.io/tien-wei-chang-images/images/A07-N01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5722
+}
