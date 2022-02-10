@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2819,
+    "id" : "https://szmoon.github.io/tien-wei-chang-images/images/A05-N01/canvas/",
+    "label" : {
+      "none" : [ "A05-N01" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://szmoon.github.io/tien-wei-chang-images/images/A05-N01/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://szmoon.github.io/tien-wei-chang-images/images/A05-N01/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 89,
+              "height" : 187
+            }, {
+              "width" : 177,
+              "height" : 373
+            }, {
+              "width" : 353,
+              "height" : 745
+            }, {
+              "width" : 705,
+              "height" : 1490
+            }, {
+              "width" : 1410,
+              "height" : 2980
+            }, {
+              "width" : 2819,
+              "height" : 5959
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2819,
+            "@id" : "https://szmoon.github.io/tien-wei-chang-images/images/A05-N01",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5959
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2819,
+          "id" : "https://szmoon.github.io/tien-wei-chang-images/images/A05-N01/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 5959
+        },
+        "target" : "https://szmoon.github.io/tien-wei-chang-images/images/A05-N01/canvas/"
+      } ]
+    } ],
+    "height" : 5959
+  }, {
     "width" : 2515,
     "id" : "https://szmoon.github.io/tien-wei-chang-images/images/A04-N01/canvas/",
     "label" : {
